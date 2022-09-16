@@ -5,6 +5,11 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(to right, #45B649, #2C7744, #093028);
+}
+h1{
+  font-family: 'Bungee Inline', cursive;
+  color: #A1FFCE;
 }
 
 code {
